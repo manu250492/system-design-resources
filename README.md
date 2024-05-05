@@ -51,7 +51,9 @@ List of resources for System design
 
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
-- [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
+- Microservices Architecture
+    - [General](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
+    - [AWS](https://relevant.software/blog/microservices-on-aws/)
 - [Serverless Architecture](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
 - [Event-Driven Architecture](https://www.confluent.io/learn/event-driven-architecture/)
 - [Peer-to-Peer (P2P) Architecture](https://www.spiceworks.com/tech/networking/articles/what-is-peer-to-peer/)
