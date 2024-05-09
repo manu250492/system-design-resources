@@ -12,6 +12,7 @@ List of resources for System design
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 - [Synchronous vs. asynchronous communications](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
+- [REST vs GraphQl vs gRPC](https://www.youtube.com/results?search_query=rest+vs+graphql+vs+grpc)
 - [Batch Processing vs Stream Processing](https://atlan.com/batch-processing-vs-stream-processing/)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
@@ -43,7 +44,9 @@ List of resources for System design
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [Failover](https://avinetworks.com/glossary/failover/)
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
-- [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+- Message Queues
+    - [General](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+    - [RabbitMQ Vs Apache Kafka](https://dev.to/somadevtoo/difference-between-apache-kafka-rabbitmq-and-activemq-4f1k)
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
