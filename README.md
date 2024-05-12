@@ -8,7 +8,10 @@ List of resources for System design
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
-- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
+- API
+    - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
+    - [API Versioning](https://www.postman.com/api-platform/api-versioning/)
+    - [Token based authentication](https://www.youtube.com/watch?v=soGRyl9ztjI)
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 - [Synchronous vs. asynchronous communications](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
@@ -64,7 +67,6 @@ List of resources for System design
 
 
 ## ✅ How to Answer a System Design Interview Problem
-<img src="diagrams/interview-template.png" width="400" height="250">
 
 ### [Read the Full Article](https://newsletter.ashishps.com/p/how-to-answer-a-system-design-interview-problem)
 
